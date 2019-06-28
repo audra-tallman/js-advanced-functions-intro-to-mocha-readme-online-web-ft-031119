@@ -19,5 +19,5 @@ function shouting(input) {
 }
 
 function roudnDown(number) {
-  return Math.floor(input);
+  return Math.floor(number);
 }
